@@ -4,6 +4,8 @@
   border: 1px solid #e2e8f0;
   color: #0f172a;
   font-family: sans-serif;
+  width: 25%;
+  margin-right: 3%;
 }
 .kort img {
   max-width: 100%;
